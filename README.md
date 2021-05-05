@@ -33,9 +33,7 @@ Hi, I'm [Dan Schoonmaker](https://www.schoon.me/), a full-stack engineer in Aust
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-JavaScript   4 hrs 51 mins   ███████████▓░░░░░░░░░░░░░   46.47 % 
-SCSS         3 hrs 30 mins   ████████▒░░░░░░░░░░░░░░░░   33.51 % 
-JSX          2 hrs 5 mins    █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
