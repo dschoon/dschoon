@@ -22,10 +22,6 @@
 <br />
 
 Hi, I'm [Dan Schoonmaker](https://www.schoon.me/), a full-stack engineer in Austin, TX.
-  
-- 💬 Ask me anything!
-- 📫 How to reach me: [@DanSchoonmaker](https://twitter.com/DanSchoonmaker);
-- 👨‍💻 [Blog](https://www.schoon.me)
 
 **Languages and Tools:**  
 
