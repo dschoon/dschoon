@@ -33,8 +33,7 @@ Hi, I'm [Dan Schoonmaker](https://www.schoon.me/), a full-stack engineer in Aust
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
 ```text
-Git Config   1 min           ██████████████▒░░░░░░░░░░   57.08 % 
-JSON         1 min           ██████████▓░░░░░░░░░░░░░░   42.92 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
