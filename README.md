@@ -1,6 +1,6 @@
 [![Dan Schoonmaker's Portfolio](https://cdn.schoon.me/personal/images/schoon-devs.png)](https://www.schoon.me)
 
-<p align="center"><a href="https://www.12in21.com" target="_blank">#12in21</a> -- <a href="https://www.casts.fm" target="_blank">Casts.fm</a> -- <a href="https://www.schoon.me" target="_blank">Schoon.me</a></p>
+<p align="center"><a href="https://www.nifty.so" target="_blank">nifty.so</a> -- <a href="https://www.casts.fm" target="_blank">casts.fm</a> -- <a href="https://www.schoon.me" target="_blank">schoon.me</a></p>
 
 ----
 
