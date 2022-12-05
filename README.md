@@ -36,9 +36,9 @@ Hi, I'm [Dan Schoonmaker](https://www.schoon.me/), a full-stack engineer in Aust
 ```text
 JavaScript       10 hrs 10 mins  ██████████████░░░░░░░░░░░   55.61 %
 TypeScript       5 hrs 49 mins   ████████░░░░░░░░░░░░░░░░░   31.85 %
-JSON             1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+JSON             1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
 YAML             23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-SCSS             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+SCSS             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 Markdown         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
