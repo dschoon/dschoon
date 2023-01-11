@@ -34,12 +34,12 @@ Hi, I'm [Dan Schoonmaker](https://www.schoon.me/), a full-stack engineer in Aust
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript       18 hrs 26 mins  ███████████████░░░░░░░░░░   59.49 %
-TypeScript       6 hrs 12 mins   █████░░░░░░░░░░░░░░░░░░░░   20.03 %
-JSON             4 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.12 %
-SCSS             35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-yarn.lock        31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
-YAML             19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+JavaScript       17 hrs 52 mins  █████████████▒░░░░░░░░░░░   53.05 %
+TypeScript       10 hrs 45 mins  ████████░░░░░░░░░░░░░░░░░   31.93 %
+JSON             2 hrs 30 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+.env file        35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+SCSS             35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+yarn.lock        23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
