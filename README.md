@@ -1,6 +1,6 @@
 [![Dan Schoonmaker's Portfolio](https://cdn.schoon.me/personal/images/schoon-devs.png)](https://www.schoon.me)
 
-<p align="center"><a href="https://www.nifty.so" target="_blank">nifty.so</a> -- <a href="https://www.casts.fm" target="_blank">casts.fm</a> -- <a href="https://www.schoon.me" target="_blank">schoon.me</a></p>
+<p align="center"><a href="https://www.ContentFlywheel.com" target="_blank">ContentFlywheel</a> -- <a href="https://www.FindPlugins.ai" target="_blank">FindPlugins.ai</a> -- <a href="https://www.schoon.me" target="_blank">Schoon.me</a></p>
 
 ----
 
@@ -9,13 +9,13 @@
 <a href="https://discord.gg/XTW52Kt">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
--->
 <a href="https://twitter.com/DanSchoonmaker">
   <img align="left" alt="Dan Schoonmaker | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/danschoonmaker/">
   <img align="left" alt="Dan Schoonmaker | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+-->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=dschoon.dschoon)
 
