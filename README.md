@@ -1,6 +1,6 @@
 [![Dan Schoonmaker's Portfolio](https://cdn.schoon.me/personal/images/schoon-devs.png)](https://www.schoon.me)
 
-<p align="center"><a href="https://www.ContentFlywheel.com" target="_blank">ContentFlywheel</a> -- <a href="https://www.FindPlugins.ai" target="_blank">FindPlugins.ai</a> -- <a href="https://www.schoon.me" target="_blank">Schoon.me</a></p>
+<p align="center"><a href="https://www.ContentFlywheel.com" target="_blank">ContentFlywheel</a> -- <a href="https://www.PuzzleGenerator.ai" target="_blank">PuzzleGenerator.ai</a> -- <a href="https://www.DanSchoonmaker.com" target="_blank">DanSchoonmaker.com</a></p>
 
 ----
 
