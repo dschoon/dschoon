@@ -32,11 +32,11 @@ Hi, I'm [Dan Schoonmaker](https://www.schoon.me/), a full-stack engineer in Aust
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript    9 hrs 17 mins   ████████████▒░░░░░░░░░░░░   49.43 %
-JavaScript    6 hrs 58 mins   █████████▒░░░░░░░░░░░░░░░   37.13 %
-JSON          1 hr 26 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
-Other         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-Bash          19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+JavaScript    8 hrs 15 mins   ███████████░░░░░░░░░░░░░░   43.61 %
+TypeScript    8 hrs 12 mins   ███████████░░░░░░░░░░░░░░   43.37 %
+JSON          1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
+Other         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+Bash          18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
 ```
 
 <!--END_SECTION:waka-->
