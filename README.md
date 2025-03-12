@@ -1,23 +1,10 @@
 [![Dan Schoonmaker's Portfolio](https://cdn.schoon.me/personal/images/schoon-devs.png)](https://www.schoon.me)
 
-<p align="center"><a href="https://www.ContentFlywheel.com" target="_blank">ContentFlywheel</a> -- <a href="https://www.PuzzleGenerator.ai" target="_blank">PuzzleGenerator.ai</a> -- <a href="https://www.DanSchoonmaker.com" target="_blank">DanSchoonmaker.com</a></p>
+<p align="center"><a href="https://mcp.host" target="_blank">mcp.host</a> -- <a href="https://www.ContentFlywheel.com" target="_blank">ContentFlywheel</a> -- <a href="https://www.DanSchoonmaker.com" target="_blank">DanSchoonmaker.com</a></p>
 
 ----
 
 ### Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="25px">
-<!--
-<a href="https://discord.gg/XTW52Kt">
-  <img align="left" alt="Dan's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://twitter.com/DanSchoonmaker">
-  <img align="left" alt="Dan Schoonmaker | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/danschoonmaker/">
-  <img align="left" alt="Dan Schoonmaker | LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
--->
-
-![](https://visitor-badge.glitch.me/badge?page_id=dschoon.dschoon)
 
 Hi, I'm [Dan Schoonmaker](https://www.schoon.me/), a full-stack engineer in Austin, TX.
 
