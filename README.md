@@ -19,11 +19,11 @@ Hi, I'm [Dan Schoonmaker](https://x.com/DanSchoonmaker), a full-stack engineer i
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   14 hrs 20 mins  ████████████████▓░░░░░░░░   66.95 %
-Other        2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.60 %
-JSON         1 hr 44 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Markdown     1 hr 28 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.87 %
-TOML         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+TypeScript   15 hrs 13 mins  ███████████████░░░░░░░░░░   59.97 %
+JSON         2 hrs 45 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.89 %
+Other        2 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Markdown     2 hrs 11 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
+MDX          1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 %
 ```
 
 <!--END_SECTION:waka-->
