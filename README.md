@@ -19,8 +19,8 @@ Hi, I'm [Dan Schoonmaker](https://x.com/DanSchoonmaker), a full-stack engineer i
 <!--START_SECTION:waka-->
 
 ```txt
-YAML    11 mins               █████████████████░░░░░░░░   67.50 %
-Other   5 mins                ████████░░░░░░░░░░░░░░░░░   32.50 %
+YAML    11 mins               █████████████████████▒░░░   85.53 %
+Other   1 min                 ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
 ```
 
 <!--END_SECTION:waka-->
